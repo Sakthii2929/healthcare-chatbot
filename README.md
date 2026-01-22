@@ -25,3 +25,16 @@ Version Control:
 - GitHub
 
 ## 📁 Project Structure
+## ▶️ How to Run Locally
+
+### Backend (Node.js)
+
+1. Open terminal / PowerShell
+2. Navigate to backend folder:
+   ```bash
+   cd backend
+   md
+   cd backend
+   npm install
+   node server.js
+   http://localhost:5000
